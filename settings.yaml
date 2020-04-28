@@ -1,0 +1,11 @@
+linked_words:
+  type: list
+  default: 'muhyal,https://www.muhyal.com'
+excluded_tags:
+  type: list
+  list_type: compact
+  default: 'code|pre'
+excluded_classes:
+  type: list
+  list_type: compact
+  default: 'onebox'

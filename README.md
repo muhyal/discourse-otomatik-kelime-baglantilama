@@ -1,0 +1,2 @@
+# discourse-otomatik-kelime-baglantilama
+ 
